@@ -1,0 +1,14 @@
+.content{
+  padding: 40px;
+  max-width:60%;
+  margin:auto;
+}
+h1,h2{
+	text-align: center;	
+}
+.form{
+  padding: 40px;
+  max-width:60%;
+  margin:auto;
+  text-align: center;
+}
